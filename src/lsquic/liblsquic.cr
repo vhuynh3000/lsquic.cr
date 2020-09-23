@@ -6,8 +6,8 @@ lib LibLsquic
   GLOBAL_CLIENT                              =   1
   GLOBAL_SERVER                              =   2
   MAJOR_VERSION                              =   2
-  MINOR_VERSION                              =  18
-  PATCH_VERSION                              =   1
+  MINOR_VERSION                              =  19
+  PATCH_VERSION                              =   8
   EXPERIMENTAL_Q098                          =   0
   DEPRECATED_VERSIONS                        =   0
   DF_MAX_STREAMS_IN                          = 100
